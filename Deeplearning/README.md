@@ -2,4 +2,7 @@
 
 ## 공부 일지 및 참고문헌
 
-- 2022.04.04 딥러닝 공부 시작 - Tensor 기초 살펴보기
+- 2022.04.04 - Tensor 기초 살펴보기
+  - https://codetorial.net/tensorflow/basics_of_tensor.html#id8
+
+- 2022.04.05 -
