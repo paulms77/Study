@@ -18,3 +18,6 @@
   - https://codetorial.net/matplotlib/index.html
   - https://jrc-park.tistory.com/274
   - https://hong-yp-ml-records.tistory.com/88
+
+- 2022.04.05 - AND 로직 연산 학습하기
+  - https://codetorial.net/tensorflow/training_logic_and_operation.html
