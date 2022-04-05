@@ -24,3 +24,6 @@
 
 - 2022.04.05 - 뉴런층의 속성 확인하기
   - https://codetorial.net/tensorflow/get_attribute_of_neuron_layers.html
+
+- 2022.04.05 - 뉴런층의 출력 확인하기
+  - https://codetorial.net/tensorflow/get_output_of_neuron_layers.html
