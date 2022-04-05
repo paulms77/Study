@@ -14,6 +14,7 @@
 
 - 2022.04.05 - 옵티마이저 사용하기
   - https://codetorial.net/tensorflow/basics_of_optimizer.html
+  - https://www.tensorflow.org/api_docs/python/tf/keras/optimizers
   - https://codetorial.net/matplotlib/index.html
   - https://jrc-park.tistory.com/274
   - https://hong-yp-ml-records.tistory.com/88
