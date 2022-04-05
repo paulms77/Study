@@ -11,3 +11,9 @@
 
 - 2022.04.05 - 손실 함수 살펴보기
   - https://codetorial.net/tensorflow/basics_of_loss_function.html
+
+- 2022.04.05 - 옵티마이저 사용하기
+  - https://codetorial.net/tensorflow/basics_of_optimizer.html
+  - https://codetorial.net/matplotlib/index.html
+  - https://jrc-park.tistory.com/274
+  - https://hong-yp-ml-records.tistory.com/88
