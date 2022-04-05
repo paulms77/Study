@@ -8,3 +8,6 @@
 - 2022.04.05 - 간단한 신경망 만들기
   - https://codetorial.net/tensorflow/simple_neural_network.html
   - https://www.tensorflow.org/
+
+- 2022.04.05 - 손실 함수 살펴보기
+  - https://codetorial.net/tensorflow/basics_of_loss_function.html
