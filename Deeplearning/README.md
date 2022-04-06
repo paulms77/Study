@@ -30,3 +30,6 @@
 
 - 2022.04.06 - MNIST 손글씨 이미지 분류하기
   - https://codetorial.net/pyqt5/examples/mnist_classifier.html
+
+- 2022.04.06 - Fashion MNIST 이미지 분류하기
+  - https://codetorial.net/tensorflow/fashion_mnist_classification.html
