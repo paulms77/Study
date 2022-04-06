@@ -28,5 +28,5 @@
 - 2022.04.05 - 뉴런층의 출력 확인하기
   - https://codetorial.net/tensorflow/get_output_of_neuron_layers.html
 
-- 2022. 04. 06 - MNIST 손글씨 이미지 분류하기
+- 2022.04.06 - MNIST 손글씨 이미지 분류하기
   - https://codetorial.net/pyqt5/examples/mnist_classifier.html
