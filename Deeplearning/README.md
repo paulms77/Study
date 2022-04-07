@@ -33,3 +33,7 @@
 
 - 2022.04.06 - Fashion MNIST 이미지 분류하기
   - https://codetorial.net/tensorflow/fashion_mnist_classification.html
+
+- 2022.04.07 - 합성곱 신경망 사용하기
+  - https://codetorial.net/tensorflow/convolutional_neural_network.html
+  - https://stackoverflow.com/questions/58081284/what-does-reshape60000-28-28-1-mean#comment102557211_58081284
