@@ -43,3 +43,8 @@
   - https://www.delftstack.com/ko/howto/matplotlib/display-an-image-with-matplotlib-python/
   - https://engineer-mole.tistory.com/215
   - https://codechacha.com/ko/python-join-path-filename/
+
+- 2022.04.08 - 개와 고양이 이미지 분류하기
+  - https://codetorial.net/tensorflow/classifying_the_cats_and_dogs.html
+  - https://webnautes.tistory.com/1529
+  - https://rfriend.tistory.com/431
