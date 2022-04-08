@@ -49,5 +49,5 @@
   - https://webnautes.tistory.com/1529
   - https://rfriend.tistory.com/431
 
-그냥 이런게 있구나 이미지 프로세싱 기술, 탐욕적 기법(Greedy Aproach)
-- https://dacon.io/forum/406167
+- 2022.04.08 - 그냥 이런게 있구나 이미지 프로세싱 기술, 탐욕적 기법(Greedy Aproach)
+  - https://dacon.io/forum/406167
