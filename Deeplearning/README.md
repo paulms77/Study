@@ -37,3 +37,9 @@
 - 2022.04.07 - 합성곱 신경망 사용하기
   - https://codetorial.net/tensorflow/convolutional_neural_network.html
   - https://stackoverflow.com/questions/58081284/what-does-reshape60000-28-28-1-mean#comment102557211_58081284
+
+- 2022.04.08 - 말과 사람 이미지 분류하기
+  - https://colab.research.google.com/drive/18kM40KlV4kh35ks_RPlhr6CD_nyuF1yn?hl=ko#scrollTo=rtEm6F8d54MY
+  - https://www.delftstack.com/ko/howto/matplotlib/display-an-image-with-matplotlib-python/
+  - https://engineer-mole.tistory.com/215
+  - https://codechacha.com/ko/python-join-path-filename/
