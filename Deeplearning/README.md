@@ -52,3 +52,7 @@
 - 2022.04.08 - 그냥 이런게 있구나 이미지 프로세싱 기술, 탐욕적 기법(Greedy Aproach), 스타트업 시작하는 방법
   - https://dacon.io/forum/406167
   - https://post.jwgo.kr/105
+
+- 2022.04.11 - 이미지 어그멘테이션의 효과
+  - https://codetorial.net/tensorflow/image_augmentation.html
+  - https://keras.io/api/preprocessing/image/
