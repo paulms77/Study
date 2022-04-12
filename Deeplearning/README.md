@@ -56,3 +56,9 @@
 - 2022.04.11 - 이미지 어그멘테이션의 효과
   - https://codetorial.net/tensorflow/image_augmentation.html
   - https://keras.io/api/preprocessing/image/
+
+- 2022.04.12 - 전이 학습 활용하기
+  - https://codetorial.net/tensorflow/transfer_learning.html
+  - https://en.wikipedia.org/wiki/Inceptionv3
+  - https://arxiv.org/pdf/1512.00567.pdf
+
