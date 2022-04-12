@@ -62,3 +62,5 @@
   - https://en.wikipedia.org/wiki/Inceptionv3
   - https://arxiv.org/pdf/1512.00567.pdf
 
+- 2022.04.12 - 다중 클래스 분류 문제
+ - https://codetorial.net/tensorflow/multiclass_classification.html
