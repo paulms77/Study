@@ -64,3 +64,6 @@
 
 - 2022.04.12 - 다중 클래스 분류 문제
  - https://codetorial.net/tensorflow/multiclass_classification.html
+
+- 2022.04.13 - 시냅스 가중치 얻기
+ - https://codetorial.net/tensorflow/get_weights.html
