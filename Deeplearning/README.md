@@ -70,3 +70,6 @@
 
 - 2022.04.13 - 모델 시냅스 가중치 적용하기
   - https://codetorial.net/tensorflow/set_weights.html
+
+- 2022.04.13 - 모델 시각화하기
+  - https://codetorial.net/tensorflow/visualize_model.html
