@@ -73,3 +73,6 @@
 
 - 2022.04.13 - 모델 시각화하기
   - https://codetorial.net/tensorflow/visualize_model.html
+
+- 2022.04.16 - 훈련 과정 시각화하기
+  - https://codetorial.net/tensorflow/visualize_training_history.html
