@@ -76,3 +76,6 @@
 
 - 2022.04.16 - 훈련 과정 시각화하기
   - https://codetorial.net/tensorflow/visualize_training_history.html
+
+- 2022.04.16 - 모델 저장하고 복원하기
+  - https://codetorial.net/tensorflow/save_load_model.html
