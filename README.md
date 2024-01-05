@@ -4,4 +4,4 @@
 
 LG Aimers 1, 2기
 
-StudyGroup
+Study
