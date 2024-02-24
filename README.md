@@ -1,6 +1,6 @@
 # 스터디
 
-|제목|기간|주제|
+|Title|Date|Content|
 |---|---|---|
 |충북인공지능교육|2020.06.29 ~ 2020.08.21|numpy, sckit-learn, tensorflow, keras, kaggle|
 |LG Aimers 1기|2022.07.04 ~ 2022.08.26|자율주행 센서 안테나 성능 예측|
